@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Revolut</string>
+    <string name="title">Rates</string>
+    <string name="currency_icon_description">Currency Icon</string>
+
+    <string name="EUR">Euro</string>
+    <string name="AUD">Australia</string>
+    <string name="BGN">Bulgaria</string>
+    <string name="BRL">Brazil</string>
+    <string name="CAD">Canada</string>
+    <string name="CHF">Switzerland</string>
+    <string name="CNY">China</string>
+    <string name="CZK">Czech Republic</string>
+    <string name="DKK">Denmark</string>
+    <string name="GBP">Great Britain</string>
+    <string name="HKD">Hong Kong</string>
+    <string name="HRK">Croatia</string>
+    <string name="HUF">Hungary</string>
+    <string name="IDR">Indonesia</string>
+    <string name="ILS">Israel</string>
+    <string name="INR">India</string>
+    <string name="ISK">Iceland</string>
+    <string name="JPY">Japan</string>
+    <string name="KRW">South Korea</string>
+    <string name="MXN">Mexico</string>
+    <string name="MYR">Malaysia</string>
+    <string name="NOK">Norway</string>
+    <string name="NZD">New Zealand</string>
+    <string name="PHP">Philippines</string>
+    <string name="PLN">Poland</string>
+    <string name="RON">Romania</string>
+    <string name="RUB">Russia</string>
+    <string name="SEK">Sweden</string>
+    <string name="SGD">Singapore</string>
+    <string name="THB">Thailand</string>
+    <string name="USD">United States of America</string>
+    <string name="ZAR">South Africa</string>
+</resources>
